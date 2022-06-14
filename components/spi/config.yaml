@@ -1,5 +1,6 @@
-sharedSecret: <shared-secret>
+sharedSecret: ea7831d1b9834f83ab97c7ae9691090445f88064
 serviceProviders:
 - type: GitHub
-  clientId: <github-client-id>
-  clientSecret: <github-client-secret>
+  clientId: 2996e649cd40914319fa
+  clientSecret: 606682db038f90dc36a9cf4c63f46c1640035cd6
+baseUrl: https://spi-oauth-route-spi-system.apps.rhosd-06.hacbs.ccitredhat.com
